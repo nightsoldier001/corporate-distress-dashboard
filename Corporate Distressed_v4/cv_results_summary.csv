@@ -1,4 +1,0 @@
-Model,AUC_mean,AUC_std,F1_mean,F1_std,Precision_mean,Precision_std,Recall_mean,Recall_std
-Logistic Regression,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
-Random Forest,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
-Gradient Boosting,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
